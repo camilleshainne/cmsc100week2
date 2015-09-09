@@ -1,5 +1,5 @@
 var should = require('should-http'),
-	request = require('supertest');
+	request = require('supertest')
 	studrec = {name: 'Dalisay',
 				studno: '2015-12333'};
 
